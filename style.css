@@ -1,0 +1,111 @@
+/**********************
+
+BACKGROUND COLORS
+
+***********************/
+.menuBg {
+    background-color: #f1f1f1;
+}
+
+.lighterGrayBg{
+    background-color: #c3c3c3;
+}
+
+.lightGrayBg{
+    background-color: #888888;
+}
+
+.greenBg {
+    background-color: #1c9926;
+}
+
+.darkOrangeBg {
+    background-color: #f2962e;
+}
+
+.orangeBg{
+    background-color:#f7b053;
+}
+
+.redBg{
+    background-color:#b92c28;
+}
+
+.aaaBg {
+    background-color:#aaaaaa;
+}
+
+.blueBg {
+    background-color: #428bca;
+}
+
+.lighterBlueBg {
+    background-color:#28a6de;
+}
+
+/**********************
+
+FONT COLORS
+
+***********************/
+
+.darkGray{
+    color: #555555;
+}
+
+.lighterGray{
+    color: #c3c3c3;
+}
+
+.lightGray{
+    color: #888888;
+}
+
+.paleGray {
+    color: #fcfcfc;
+}
+
+.green {
+    color: #1c9926;
+}
+
+.darkOrange {
+    color: #f2962e;
+}
+
+.orange{
+    color:#f7b053;
+}
+
+.red{
+    color:#b92c28;
+}
+
+.white{
+    color:#ffffff;
+}
+
+.menuGray {
+    color:#f1f1f1;
+}
+
+.blue {
+    background-color: #428bca;
+}
+
+.lighterBlue {
+    color:#28a6de;
+}
+
+/**********************
+
+BORDERS COLORS
+
+***********************/
+
+.errorBorder {
+    border: 1px solid #b92c28;
+    -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.10);
+    -moz-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.10);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.10);
+}
